@@ -10,8 +10,9 @@ I have used kotlin concepts such as,
             4.It has "exception handling".and "Null Safety". 
             5.and added "try and catch" concept.
             6. It has "Internet Connection" it uses url response for getting the live weather report.
+            
+***You can Install the Sample app by clicking below ***
+[WEATHER APP.it App](https://github.com/HarishharanH/My-Android-Applications/raw/master/Weather%20App.apk)
 
 ## Demo
 ![weather app demo pic](https://user-images.githubusercontent.com/66459579/83939752-058e5580-a7fd-11ea-8220-c84c022b6490.jpg)
-
-[![WEATHER APP.it App](https://github.com/HarishharanH/My-Android-Applications/raw/master/Weather%20App.apk)
