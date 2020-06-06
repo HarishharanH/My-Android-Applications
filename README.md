@@ -12,4 +12,4 @@ I have used kotlin concepts such as,
             6. It has "Internet Connection" it uses url response for getting the live weather report.
 
 ## Demo
-4ee524e6c065bcb88dc44f1224bc9219b9b39139
+c412d556af4a64807c0d2303a68328c14de05470
