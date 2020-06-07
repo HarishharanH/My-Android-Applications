@@ -17,7 +17,7 @@ I have used kotlin concepts such as,
             
             6. It has "Internet Connection" it uses url response for getting the live weather report.
             
-***You can Install the Sample app by clicking below ***
+##***You can Install the Sample app by clicking below ***
 
 [WEATHER APP.it App](https://github.com/HarishharanH/My-Android-Applications/raw/master/Weather%20App.apk)
 
